@@ -1,0 +1,12 @@
+name: pythongpt
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - seaborn
+  - ipykernel
+  - matplotlib
+  - pandas
